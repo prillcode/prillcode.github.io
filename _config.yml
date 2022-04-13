@@ -19,6 +19,10 @@ aux_links:
     - "//github.com/prillcode"
   "Personal Github (prilldev)":
     - "//github.com/prilldev"
+  "LinkedIn":
+    - "//linkedin.com/n/aaronprill"
+  "twitter":
+    - "//twitter.com/aaronprill"
 
 aux_links_new_tab: true
 
