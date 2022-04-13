@@ -1,3 +1,9 @@
+---
+layout: home
+title: Aaron Prill
+nav_order: 1
+---
+
 ## Aaron Prill - Sr. Software Engineer
 **[Tyler Technologies](tylertech.com)**
 
