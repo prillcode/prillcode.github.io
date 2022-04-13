@@ -1,9 +1,12 @@
 ---
 layout: default
 title: Projects
-nav_order: 2
+nav_order: 3
 ---
 
-## Projects
+# Projects
 
-This is some sample text to see if this works...
+## TODO: Add Projects
+
+[Basic Project Description...]
+
