@@ -3,8 +3,7 @@ layout: default
 title: Work Experience
 nav_order: 2
 ---
-![](images\aaron_prill_tyler_banner.png)<br>
-_Through the years..._
+{% include page_banner.html %}
 # Work Experience
 
 I have been with Tyler Technologies in the Bangor, Maine office since November of 2004.

@@ -3,8 +3,7 @@ layout: home
 title: Professional Overview
 nav_order: 1
 ---
-![](images\aaron_prill_tyler_banner.png)<br>
-_Through the years..._
+{% include page_banner.html %}
 # Aaron Prill, Sr. Software Engineer
 
 **[Tyler Technologies](tylertech.com)** -- Software Pro since 2001. Hired by Tyler Tech in 2004.
