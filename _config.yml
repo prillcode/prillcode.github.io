@@ -1,6 +1,6 @@
  ## Site settings
-title: Aaron Prill (aka. prillcode)
-description: Just your ordinary Sr. Software Engineer, married with a bunch of kids
+title: Aaron Prill
+description: Sr. Software Engineer at Tyler Technologies since 2004.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://prillcode.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -15,9 +15,9 @@ heading_anchors: true
 
 # Aux Links in upper right
 aux_links:
-  "My Professional Github":
-    - "//gihub.com/prillcode"
-  "My Personal Github":
+  "Prof. Github (prillcode)":
+    - "//github.com/prillcode"
+  "Personal Github (prilldev)":
     - "//github.com/prilldev"
 
 aux_links_new_tab: true

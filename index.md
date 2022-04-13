@@ -6,11 +6,9 @@ nav_order: 1
 ![](images\aaron_prill_tyler_banner.png)<br>
 _Through the years..._
 ## Aaron Prill - Sr. Software Engineer
-**[Tyler Technologies](tylertech.com)**
+**[Tyler Technologies](tylertech.com)** -- Kicking butt at Tyler since 2004
 
-Hired in 2004
-
-Lover of C#, T-SQL, and currently learning all things Amazon Web Services as our company heads full-steam into the cloud. 
+Lover of C#, T-SQL, Git/Github (of course), and currently learning all things Amazon Web Services as our company heads full-steam into the cloud. 
 
 Still maintaining an enterprise-level VB6 app (ya, that's Visual Basic 6.0 from the dark ages) as we transition clients to a new Tyler software solution.
 
