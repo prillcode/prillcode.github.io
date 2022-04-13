@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Aaron Prill
+title: Introduction
 nav_order: 1
 ---
 ![](images\aaron_prill_tyler_banner.png)<br>
@@ -33,5 +33,4 @@ _"**The cloud** is just somebody else's computer...<br>
 ...across many regions **around the world.**"_ ~AWS
 
 ---
-Edit this page with the [editor on GitHub](https://github.com/prillcode/prillcode.github.io/edit/main/README.md)
 
