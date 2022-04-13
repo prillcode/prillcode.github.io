@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Aaron Prill - Sr. Software Engineer
+**Tyler Technologies**
 
-You can use the [editor on GitHub](https://github.com/prillcode/prillcode.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hired in 2004
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lover of C#, T-SQL, and currently learning all things Amazon Web Services as our company heads full-steam into the cloud. 
 
-### Markdown
+Still maintaining an enterprise-level VB6 app (ya, that's Visual Basic 6.0 from the dark ages) as we transition clients to a new Tyler software solution.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```csharp
+/* Each day is like a code block...
+   ...You can see what is happening clearly as long as there is a definite beginning an end.
+*/
+if (good_night_sleep == true) {
+  HaveProductiveDay();
+}
+else {
+  BrainFog = true;
+}
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Projects ##
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prillcode/prillcode.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
+Edit this page with the [editor on GitHub](https://github.com/prillcode/prillcode.github.io/edit/main/README.md)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
