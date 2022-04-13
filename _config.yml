@@ -1,1 +1,24 @@
+ ## Site settings
+title: Aaron Prill (aka. prillcode)
+description: Just your ordinary Sr. Software Engineer, married with a bunch of kids
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://prillcode.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+## Theme
 remote_theme: just-the-docs/just-the-docs
+
+## No search bar at the top
+search_enabled: false
+
+# Add anchors for every heading on a page
+heading_anchors: true
+
+# Aux Links in upper right
+aux_links:
+  "My Professional Github":
+    - "//gihub.com/prillcode"
+  "My Personal Github":
+    - "//github.com/prilldev"
+
+aux_links_new_tab: true
+
