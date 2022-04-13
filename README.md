@@ -1,5 +1,5 @@
 ## Aaron Prill - Sr. Software Engineer
-**Tyler Technologies**
+**[Tyler Technologies](tylertech.com)**
 
 Hired in 2004
 
@@ -9,7 +9,7 @@ Still maintaining an enterprise-level VB6 app (ya, that's Visual Basic 6.0 from 
 
 ```csharp
 /* Each day is like a code block...
-   ...You can see what is happening clearly as long as there is a definite beginning an end.
+   ...You can see what is happening clearly as long as there is a definite beginning and a definite end.
 */
 if (good_night_sleep == true) {
   HaveProductiveDay();
@@ -19,9 +19,10 @@ else {
 }
 
 ```
-
-## Projects ##
-
+_"**The cloud** is just somebody else's computer...<br> 
+...in a **highly secure** facility...<br> 
+   ...**redundantly supported** in multiple availability zones...<br> 
+...across many regions **around the world.**"_ ~AWS
 
 ---
 Edit this page with the [editor on GitHub](https://github.com/prillcode/prillcode.github.io/edit/main/README.md)
