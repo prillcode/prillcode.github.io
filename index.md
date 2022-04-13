@@ -3,7 +3,7 @@ layout: home
 title: Aaron Prill
 nav_order: 1
 ---
-
+![](images\aaron_prill_tyler_banner.png)
 ## Aaron Prill - Sr. Software Engineer
 **[Tyler Technologies](tylertech.com)**
 
