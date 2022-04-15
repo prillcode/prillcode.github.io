@@ -16,13 +16,17 @@ Still maintaining an enterprise-level VB6 app (ya, that's Visual Basic 6.0 from 
 
 ```csharp
 /* Each day is like a code block...
-   ...You can see what is happening clearly as long as there is a definite beginning and a definite end.
+   You can see what is happening clearly as long as 
+   there is a definite beginning, and a definite end.
 */
+bool brainFog;
 if (good_night_sleep == true) {
+  brainFog = false;
   HaveProductiveDay();
 }
 else {
-  BrainFog = true;
+  brainFog = true;
+  DoNothing();
 }
 
 ```
